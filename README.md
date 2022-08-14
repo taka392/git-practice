@@ -1,4 +1,7 @@
-hoge
-hoge
-hoge
-takahiro
+DMM WEBCAMPの学習コンテンツの研修課題です。
+
+１. HTML・CSSを学ぼう
+２. Railsを学ぼう
+３. アプリケーションを完成させよう
+４. アプリケーションを完成させよう2
+
