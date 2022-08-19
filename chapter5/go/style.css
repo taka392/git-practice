@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+a {
+  text-decoration: none;
+}
+
+header {
+  width: 100%;
+  text-align: center;
+  padding: 20px o;
+  
+}
+
+.nav-list-item {
+  display: flex;
+  text-align: center;
+  width: 100%;
+  padding: 15px;
+}
+
+.nav-list-item {
+  ;
+}
